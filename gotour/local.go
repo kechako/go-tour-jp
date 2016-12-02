@@ -31,7 +31,7 @@ import (
 )
 
 const (
-	basePkg    = "github.com/atotto/go-tour-jp/"
+	basePkg    = "github.com/kechako/go-tour-jp/"
 	socketPath = "/socket"
 )
 
